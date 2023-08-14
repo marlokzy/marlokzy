@@ -1,4 +1,4 @@
-## Hey yo, I'm Marlon! Welcome to my profile!! 👋
+## Ei olá, Eu sou o Marlon! Bem vindo ao meu perfil!! 👋
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fe5895176249761.64c16c9007ab2.gif)
 
@@ -23,6 +23,19 @@
          href="#" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139e" target="_blank">
      </a>
+</div>
+<br>
+<div>
+🖖🏼 Muito prazer! Sou um entusiasta da tecnologia, desde sempre apaixonado por Inovação, Avanços Tecnológicos e Dados!<br>
+<br>
+<ul>
+       <li>👨🏻‍💻 Estou atualmente à procura de uma oportunidade na área de TI!</li>
+       <li>📚 Cursando Bacharelado em Sistemas de Informação na FMU - Centro Universitário. (4/8)</li>
+       <li>❤ Apaixonado por Tecnologia, mais especificamente pela área de Dados e Desenvolvimento.</li>
+       <li>😁 Gosto de passar o meu tempo livre lendo, tentando resolver novos problemas de programação ou aprendendo algo novo!</li>
+       <li>💬 Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia.</li>
+       <li>🤓 No presente momento estou a melhorar as minhas competências em Javascript, SQL entre outras tecnologias!</li>
+</ul>
 </div>
  
 <h2 align="left">
