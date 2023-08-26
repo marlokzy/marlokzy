@@ -34,7 +34,7 @@
        <li>❤ Apaixonado por Tecnologia, mais especificamente pela área de Dados e Desenvolvimento.</li>
        <li>😁 Gosto de passar o meu tempo livre lendo, tentando resolver novos problemas de programação ou aprendendo algo novo!</li>
        <li>💬 Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia.</li>
-       <li>🤓 No presente momento estou a melhorar as minhas competências em Javascript, SQL entre outras tecnologias!</li>
+       <li>🤓 No presente momento estou a melhorar as minhas competências em Java, Javascript, SQL entre outras tecnologias!</li>
 </ul>
 </div>
  
