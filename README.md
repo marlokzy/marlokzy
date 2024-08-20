@@ -30,11 +30,11 @@
 <br>
 <ul>
        <li>👨🏻‍💻 Estou atualmente à procura de uma oportunidade na área de TI!</li>
-       <li>📚 Cursando Bacharelado em Sistemas de Informação na FMU - Centro Universitário. (5/8)</li>
+       <li>📚 Cursando Bacharelado em Sistemas de Informação na FMU - Centro Universitário. (6/8)</li>
        <li>❤ Apaixonado por Tecnologia, mais especificamente pela área de Desenvolvimento e Dados.</li>
        <li>😁 Gosto de passar o meu tempo livre lendo, tentando resolver novos problemas de programação ou aprendendo algo novo!</li>
        <li>💬 Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia.</li>
-       <li>🤓 No presente momento estou a melhorar as minhas competências em Java, Javascript, SQL entre outras tecnologias!</li>
+       <li>🤓 No presente momento estou a melhorar as minhas competências em C#, Javascript, SQL entre outras tecnologias!</li>
 </ul>
 </div>
  
