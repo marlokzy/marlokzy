@@ -33,7 +33,7 @@
        <li>❤ Apaixonado por Tecnologia, mais especificamente pela área de Dados e DevOps.</li>
        <li>😁 Gosto de passar o meu tempo livre lendo, pesquisando ou aprendendo algo novo!</li>
        <li>💬 Adoro compartilhar conhecimento e discutir ideias relacionadas a tecnologia.</li>
-       <li>🤓 No presente momento estou a melhorar as minhas competências em Python, SQL, Azure entre outras tecnologias pertinentes para se tornar um bom Data Enginner!</li>
+       <li>🤓 No presente momento estou a melhorar as minhas competências em Python, SQL, Azure entre outras tecnologias pertinentes para se tornar um ótimo Data Engineer!</li>
 </ul>
 </div>
  
@@ -62,7 +62,7 @@
 ###
 
  <h2 align="left">
-  :octocat: Github Stats:
+  :octocat:  Github Stats:
 </h2>
 
 <div align="center">  
